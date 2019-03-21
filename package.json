@@ -24,7 +24,9 @@
     "nforce": "^1.4.0",
     "nforce-metadata": "^1.0.7",
     "nforce-tooling": "github:jeffdonthemic/nforce-tooling#master",
+    "unzipper": "^0.9.11",
     "xml": "^1.0.1",
+    "xml2js": "^0.4.19",
     "atom-package-dependencies": "latest"
   },
   "package-dependencies": {
